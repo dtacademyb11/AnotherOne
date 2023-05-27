@@ -9,5 +9,6 @@ public  class Welcome {
 
 
             System.out.println(file.exists());
+            System.out.println(file.exists());
     	}
 }
